@@ -1,1 +1,0 @@
-console.log ("Olá mundo, este é o começo do meu projeto da Aponte.");
