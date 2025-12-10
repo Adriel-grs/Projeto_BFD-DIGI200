@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Adriel-grs/Projeto_BFD-DIGI200#readme",
   "devDependencies": {
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
