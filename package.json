@@ -2,7 +2,8 @@
   "name": "projeto_bfd-digi200",
   "version": "1.0.0",
   "description": "Repositório para o desenvolvimento do programa integrador da BFD (Bolsa Futuro Digital) da Aponte Recife: Sistema de medição de gás de cozinha.",
-  "main": "index.js",
+  "type": "module",
+  "main": "src/app/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
