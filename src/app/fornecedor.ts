@@ -5,6 +5,7 @@ class Fornecedor {
     private nomeFornecedor !: String;
     private telefoneFornecedor !: number;
 
+    //Getters e Setters
     get _IdFornecedor (): number{
         return this.idFornecedor;
     }
