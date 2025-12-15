@@ -43,6 +43,7 @@ export class Cliente {
         this.telefoneCliente = _TelefoneCliente;
     }
 
-    public chamadaDePedido (){
+    public fazerDePedido (dataDoPedido:Date, horaDoPedido:Date){
+        const pedido = new Pedido (dataDoPedido, horaDoPedido);
     }
 }
