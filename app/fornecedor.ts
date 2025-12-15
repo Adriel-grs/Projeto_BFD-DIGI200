@@ -1,3 +1,4 @@
+
 class Fornecedor {
     private idFornecedor !: number;
     private cnpj !: number;
@@ -41,3 +42,4 @@ class Fornecedor {
         this.telefoneFornecedor = _TelefoneFornecedor;
     }
 }
+

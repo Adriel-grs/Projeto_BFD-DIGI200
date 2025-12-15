@@ -1,3 +1,4 @@
+
 class Cliente {
     private idCliente !: String;
     private cpf !: number;
