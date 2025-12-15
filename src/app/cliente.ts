@@ -1,4 +1,6 @@
-class Cliente {
+import { Pedido } from "./pedido.js";
+
+export class Cliente {
     private idCliente !: String;
     private cpf !: number;
     private nomeCliente !: String;
@@ -39,5 +41,8 @@ class Cliente {
     }
     set _TelefoneClinete (_TelefoneCliente: number){
         this.telefoneCliente = _TelefoneCliente;
+    }
+
+    public chamadaDePedido (){
     }
 }
